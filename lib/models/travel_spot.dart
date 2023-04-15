@@ -34,4 +34,8 @@ List<TravelSpot> travelSpots = [
   ),
 ];
 
-List<User> users = [user1, user2, user3];
+List<User> users = [
+  user1,
+  user2,
+  user3,
+];
