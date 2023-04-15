@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:travel_app_ui/models/user.dart';
 
-import '../../constants.dart';
-import '../../size_config.dart';
+import '../../../constants.dart';
+import '../../../size_config.dart';
 
 class Travelers extends StatelessWidget {
   const Travelers({

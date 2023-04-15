@@ -1,10 +1,10 @@
 
 import 'package:flutter/material.dart';
 
-import '../../components/section_title.dart';
-import '../../constants.dart';
-import '../../models/user.dart';
-import '../../size_config.dart';
+import '../../../components/section_title.dart';
+import '../../../constants.dart';
+import '../../../models/user.dart';
+import '../../../size_config.dart';
 import 'user_card.dart';
 
 class TopTravelers extends StatelessWidget {

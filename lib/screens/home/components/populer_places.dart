@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../../components/place_card.dart';
-import '../../components/section_title.dart';
-import '../../models/travel_spot.dart';
-import '../../size_config.dart';
+import '../../../components/place_card.dart';
+import '../../../components/section_title.dart';
+import '../../../models/travel_spot.dart';
+import '../../../size_config.dart';
 
 class PopilarPlaces extends StatelessWidget {
   const PopilarPlaces({

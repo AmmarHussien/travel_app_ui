@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 
-import '../../models/user.dart';
-import '../../size_config.dart';
+import '../../../models/user.dart';
+import '../../../size_config.dart';
 
 class UserCard extends StatelessWidget {
   const UserCard({
